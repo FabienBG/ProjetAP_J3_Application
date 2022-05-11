@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<listeMateriel idClient="1">
+    <sousContrat>
+        <materiel numSerie="F4569">
+            <type libelle="PC" refInterne="48"/>
+            <date_vente>2022-03-02</date_vente>
+            <prix_vente>0</prix_vente>
+            <emplacement>45 rue lille</emplacement>
+            <nbJoursAvantEcheance>57</nbJoursAvantEcheance>
+        </materiel>
+    </sousContrat>
+    <horsContrat/>
+</listeMateriel>
